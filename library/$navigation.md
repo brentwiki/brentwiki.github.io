@@ -1,6 +1,10 @@
 
 #### [首页](?file=首页 "返回首页")
 
+##### 工具学习
+- **Maven**
+    - [Maven如何引用第三方jar包](?file=000-工具学习/001-Maven/01-Maven如何引用第三方jar包 "Maven如何引用第三方jar包")
+
 ##### 学习amWiki
 - [amWiki轻文库简介](?file=001-学习amWiki/01-amWiki轻文库简介 "amWiki轻文库简介")
 - [amWiki功能导图](?file=001-学习amWiki/02-amWiki功能导图 "amWiki功能导图")
